@@ -11,4 +11,13 @@ body {
 }
 .MyProfile {
   text-align: center;
+  font-size: 150%;
+  font-style: italic;
+}
+.Guns_title {
+  text-align: center;
+  background-color: aquamarine;
+}
+.Guns {
+  text-align: center;
 }
